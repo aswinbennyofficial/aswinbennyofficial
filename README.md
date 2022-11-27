@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Aswin Benny<br>👨‍🎓 Btech CSE at LPU Punjab<br>🤟 Interested in technology, cats and movies<br>🇮🇳 From Wayanad, Kerala, India<br>👨‍💻 Currently exploring Web development, Programming and other technical fields
+👋 Hi, I am Aswin Benny<br>👨‍🎓 Btech CSE at LPU Punjab<br>🤟 Interested in technology, cats and movies<br>🇮🇳 From Wayanad, Kerala, India<br>👨‍💻 Currently exploring Web development, Programming and other technical fields <br>🔗 Portfolio website : <a href="http://aswinbennyofficial.github.io/">click here</a> 
 
 
 ## 🌐 Socials:
