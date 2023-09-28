@@ -7,7 +7,7 @@
 [![Mastodon](https://img.shields.io/badge/mastodon-%237289DA.svg?logo=mastodon&logoColor=white)](https://fosstodon.org/@aswinbenny)
 
 
-# Weeekly WakaStats
+# Weekly WakaStats
 <!--START_SECTION:waka-->
 
 ```txt
