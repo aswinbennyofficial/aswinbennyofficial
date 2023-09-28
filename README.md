@@ -36,6 +36,8 @@ JSON           2 mins          ▒░░░░░░░░░░░░░░░�
 ---
 [![](https://visitcount.itsvg.in/api?id=aswinbennyofficial&icon=5&color=0)](https://visitcount.itsvg.in)
 
+[![An image of @aswinbennyofficial's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aswinbennyofficial)](https://holopin.io/@aswinbennyofficial)
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aswinbennyofficial) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/aswinbenny) 
 
