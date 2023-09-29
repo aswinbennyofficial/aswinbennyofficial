@@ -29,7 +29,7 @@ JSON           2 mins          ▒░░░░░░░░░░░░░░░�
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbennyofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aswinbennyofficial&theme=darkhub&no-frame=false&no-bg=true&column=4&margin-h=15&margin-w=15&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=aswinbennyofficial&theme=darkhub&no-frame=false&no-bg=true&column=4&margin-h=15&margin-w=15&no-frame=true&row=2&column=3)
 
 
 
