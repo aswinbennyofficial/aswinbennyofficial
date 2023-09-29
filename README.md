@@ -24,9 +24,9 @@ JSON           2 mins          ▒░░░░░░░░░░░░░░░�
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aswinbennyofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aswinbennyofficial&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbennyofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aswinbennyofficial&theme=radical&hide_border=false&include_all_commits=false&count_private=true&margin-h=15&margin-w=15)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aswinbennyofficial&theme=radical&hide_border=false&margin-h=15&margin-w=15)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbennyofficial&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&margin-h=15&margin-w=15)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aswinbennyofficial&theme=darkhub&no-frame=false&no-bg=true&margin-h=15&margin-w=15&no-frame=true&row=2&column=3)
