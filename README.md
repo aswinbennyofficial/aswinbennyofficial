@@ -13,6 +13,9 @@
 
 
 # 👨‍💻 Weekly WakaStats
+
+[![wakatime](https://wakatime.com/badge/user/076b1796-9f78-4f63-9e8a-83832422f7a0.svg)](https://wakatime.com/@076b1796-9f78-4f63-9e8a-83832422f7a0)
+
 <!--START_SECTION:waka-->
 
 ```txt
