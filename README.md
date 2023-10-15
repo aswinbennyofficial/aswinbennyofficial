@@ -49,6 +49,11 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 
 ![](https://github-profile-trophy.vercel.app/?username=aswinbennyofficial&theme=darkhub&no-frame=false&no-bg=true&margin-h=15&margin-w=15&no-frame=true&row=2&column=3)
 
+<br/>
+
+## Dev Card
+<a href="https://app.daily.dev/aswinbenny"><img src="https://api.daily.dev/devcards/0324cd94bf9f48f6a25d5352200fe36b.png?r=cr5" width="300" alt="Aswin Benny's Dev Card"/></a>
+
 
 
 ---
