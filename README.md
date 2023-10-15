@@ -52,7 +52,7 @@ HTML         2 mins          ▒░░░░░░░░░░░░░░░░
 <br/>
 
 ## Dev Card
-<a href="https://app.daily.dev/aswinbenny"><img src="https://github.com/aswinbennyofficial/aswinbennyofficial/blob/master/devcard.svg" width="300" alt="Aswin Benny's Dev Card"/></a>
+<a href="https://app.daily.dev/aswinbenny"><img src="https://github.com/aswinbennyofficial/aswinbennyofficial/blob/main/devcard.svg" width="300" alt="Aswin Benny's Dev Card"/></a>
 
 
 
