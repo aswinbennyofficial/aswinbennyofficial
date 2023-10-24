@@ -25,13 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 28 mins
+Total Time: 49 mins
 
-TypeScript   3 hrs 28 mins   ███████████████████▒░░░░░   77.66 %
-Markdown     26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-C++          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Assembly     6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Markdown   31 mins         ███████████████▓░░░░░░░░░   63.33 %
+C++        14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+Text       3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
