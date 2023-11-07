@@ -25,9 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 mins
+Total Time: 7 mins
 
-Markdown   15 mins         █████████████████████████   100.00 %
+Markdown   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
