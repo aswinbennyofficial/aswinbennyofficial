@@ -25,10 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 26 mins
+Total Time: 6 hrs 15 mins
 
-Go         1 hr 25 mins    ████████████████████████▓   99.11 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Go           5 hrs 16 mins   █████████████████████░░░░   84.29 %
+Markdown     54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Cheetah      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
