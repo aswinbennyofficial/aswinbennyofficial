@@ -25,13 +25,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 4 mins
+Total Time: 7 hrs 20 mins
 
-Go           8 hrs 42 mins   ███████████████████▓░░░░░   78.51 %
-Markdown     1 hr 36 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-HTML         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+Go           5 hrs 43 mins   ███████████████████▒░░░░░   77.94 %
+Markdown     1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
+HTML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Bash         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
