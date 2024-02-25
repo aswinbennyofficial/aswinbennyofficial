@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-👋 Hi, I am Aswin Benny<br>👨‍🎓 Btech CSE at LPU Punjab<br>🤟 Interested in technology, cats and movies<br>🇮🇳 From Kerala, India<br>👨‍💻 Currently exploring Web development, Programming and other technical fields <br>🔗 Portfolio website : <a href="http://aswinbennyofficial.github.io/" target="_blank">click here</a> 
+👋 Hi, I am Aswin Benny<br>👨‍🎓 Btech CSE at LPU Punjab<br>🤟 Interested in technology, cats and movies<br>🇮🇳 From Kerala, India<br>👨‍💻 Building random things in Go <br>🔗 Blog : <a href="https://blog.aswinbenny.in" target="_blank">click here</a> 
 <br/><br/>
 [![](https://visitcount.itsvg.in/api?id=aswinbennyofficial&icon=5&color=0)](https://visitcount.itsvg.in)
 
