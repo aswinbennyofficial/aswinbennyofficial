@@ -52,7 +52,7 @@ Text         22 mins         ▓░░░░░░░░░░░░░░░░
 <br/>
 
 ## Dev Card
-<a href="https://app.daily.dev/aswinbenny"><img src="https://github.com/aswinbennyofficial/aswinbennyofficial/blob/main/devcard.svg" width="320" alt="Aswin Benny's Dev Card"/></a>
+<a href="https://app.daily.dev/aswinbenny"><img src="https://api.daily.dev/devcards/v2/EPKOFGbtsDKLPiY5UASfv.png?type=wide&r=y4p" width="652" alt="Aswin Benny's Dev Card"/></a>
 
 
 
