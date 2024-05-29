@@ -25,13 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 3 mins
+Total Time: 56 mins
 
-Go         1 hr 39 mins    ██████████▒░░░░░░░░░░░░░░   40.88 %
-Python     56 mins         ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-YAML       34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
-Markdown   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-Makefile   15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Python   56 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
