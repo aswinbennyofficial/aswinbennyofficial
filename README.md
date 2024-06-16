@@ -25,12 +25,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 11 mins
+Total Time: 3 mins
 
-Go         51 mins         █████████████████▓░░░░░░░   71.13 %
-Markdown   14 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 %
-Makefile   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-YAML       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
+Go   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
