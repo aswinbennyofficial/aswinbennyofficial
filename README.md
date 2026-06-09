@@ -6,7 +6,7 @@
 
 I'm **Aswin Benny** <br>
 - 👨‍🎓 **BTech in Computer Science and Engineering**, [LPU](https://www.lpu.in/) (Class of 2026)  
-- 🏢 **Backend Intern** at [Asvatthi](https://www.linkedin.com/company/asvatthi), building asynchronous processing infra  
+- 🏢 **Associate software engineer** at [Greedygame], building asynchronous processing infra  
 - 👨🏽‍💻 Currently building with `.go`, with experience in `.java`, `.js`, `.cpp`, and `.py`  
 - ⚙️ I work with **Docker**, **Redis**, **MongoDB**, **Postgres**, **AWS**, **git** and **Linux**   
 - 💬 Passionate about **scalable systems** and **system design**  
